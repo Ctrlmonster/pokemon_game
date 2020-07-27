@@ -1,0 +1,22 @@
+.abs {
+  position: absolute;
+}
+
+#xInput {
+  top : -100px;
+  left: -100px;
+}
+
+#yInput {
+  top: -250px;
+  left: -100px;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+canvas {
+  display: block;
+}
